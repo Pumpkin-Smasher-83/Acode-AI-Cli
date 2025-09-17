@@ -56,7 +56,7 @@ fn main() -> Result<(), Box<dyn std::error::Error>> {
     println!();
 
     let name: String = Input::with_theme(&theme)
-        .with_prompt("Plugin name")
+        .with_prompt("Acode_Ollama-Many-AI-Platforms")
         .validate_with(|input: &String| -> Result<(), &str> {
             if input.trim().is_empty() {
                 Err("Plugin name cannot be empty")
