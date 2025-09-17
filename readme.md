@@ -5,9 +5,6 @@ A tiny Acode plugin‑CLI that lets you **talk to more than 27 AI providers** (O
 The plugin runs completely inside Acode’s built‑in terminal, inserts the answer at the cursor position, and (optionally) executes safe JavaScript code in a sandbox.
 # Acode‑AI‑Assist  –  AI‑powered CLI for the Acode editor
 
-A tiny Acode plugin‑CLI that lets you **talk to more than 27 AI providers** (OpenAI, Anthropic, Gemini, Llama‑2, …) and **pick any model** from a catalog that can hold hundreds‑of‑thousands of entries.  
-The plugin runs completely inside Acode’s built‑in terminal, inserts the answer at the cursor position, and (optionally) executes safe JavaScript code in a sandbox.
-
 ---
 
 ## ✨ Features
